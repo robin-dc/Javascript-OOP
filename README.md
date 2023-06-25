@@ -4,7 +4,11 @@ Compilation of OOP exercises from appacademy.io
 
 ## Set up
 
-Run ```npm install``` to install any dependencies.
+To install any dependencies, run:
+
+```shell
+npm install
+```
 
 Every folder that consist of test folder can run unit tests with mocha and chai, you can run the following command:
 
