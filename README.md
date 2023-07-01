@@ -2,10 +2,13 @@
 
 Compilation of OOP exercises from appacademy.io
 
+<br>
 
 ## 📍 Why Learn OOP?
 
 Learning JavaScript Object-Oriented Programming (OOP) is essential for any aspiring web developer or programmer. OOP allows for a more organized and modular approach to coding, leading to cleaner and more maintainable codebases. By understanding JavaScript OOP, you gain the ability to create reusable objects with properties and methods, encapsulate data and functionality, and establish clear relationships between objects. This empowers you to build complex applications and tackle real-world programming challenges more efficiently. JavaScript's extensive use in web development makes OOP skills invaluable for creating interactive and dynamic websites, enhancing user experiences, and working with popular frameworks and libraries. Ultimately, mastering JavaScript OOP expands your programming repertoire and equips you with a powerful toolset to tackle a wide range of projects effectively.
+
+<br>
 
 ## Set up
 
